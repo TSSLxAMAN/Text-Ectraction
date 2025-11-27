@@ -1,4 +1,4 @@
-venv /
-env /
-ENV /
+.venv /
+.env /
+.ENV /
 __pychache__ /
